@@ -40,11 +40,11 @@ The Program uses conditional statements, loops, methods and input validation to 
 
 #### 1. Attendance Tracker
 A python program that takes students details, subjects, working days, and present days as input, calculates attendance status of each student.
-- Multiple student and subject data handling
-- Attendance percentage calculation
-- Search student by registration number
-- Menu-based options
-- Lists, loops, conditional statements, and user input
+-Multiple student and subject data handling
+-Attendance percentage calculation
+-Search student by registration number
+-Menu-based options
+-Lists, loops, conditional statements, and user input
 
 ## Technologies
 -Java
@@ -54,9 +54,9 @@ A python program that takes students details, subjects, working days, and presen
 
 ## Goal
 This Repository documents is my progress from basic programming concepts toward  DSA and larger  Projects.
-- Improve programming and problem-solving skills
-- Build practical and meaningful projects 
-- Strengthen my understanding of programming concepts and DSA
-- Learn and apply Git and GitHub
-- Explore and learn new Technologies
-- Continuously improve my projects as I learn new concepts
+-Improve programming and problem-solving skills
+-Build practical and meaningful projects 
+-Strengthen my understanding of programming concepts and DSA
+-Learn and apply Git and GitHub
+-Explore and learn new Technologies
+-Continuously improve my projects as I learn new concepts
