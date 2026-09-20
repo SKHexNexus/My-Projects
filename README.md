@@ -1,4 +1,4 @@
-# Java-Learning
+# My-Projects
 A collection of my Java learning and practice projects
 
 ## Projects
