@@ -1,9 +1,11 @@
 # My-Projects
-A collection of my Java learning and practice projects
+This repository contains the projects and coding work I have developed while learning and practicing programming.
 
 ## Projects
 
-### 1. Console Calculator
+### Java Projects
+
+#### 1. Console Calculator
 A menu-driven Java Calculator supporting:
 -Addition
 -Subtraction
@@ -14,17 +16,17 @@ A menu-driven Java Calculator supporting:
 -Power
 The Program takes user input and performs the selected mathematical operation.
 
-### 2. Number Guessing Game
+#### 2. Number Guessing Game
 A Simple Java game where the computer randomly selects a number between 1 and 1000. The player tries to guess the number, and the program provides hints such as: 
 -Too High
 -Too Low
 -Correct Guess
 The Program also counts the number of attempts taken to guess the correct number.
 
-### 3. Student Average
+#### 3. Student Average
 A Java Program that takes a student's name and marks for multiple subjects, calculates the average marks, and assigns a grade based on the average. It also validates that each marks is between 0 and 100.
 
-### 4. ATM Simulation
+#### 4. ATM Simulation
 A console-based Java ATM Simulation that allows users to perform basic banking operations.
 -PIN Authentication
 -Balance Inquiry
@@ -34,10 +36,27 @@ A console-based Java ATM Simulation that allows users to perform basic banking o
 -Input Validation
 The Program uses conditional statements, loops, methods and input validation to simualte common ATM operations. 
 
+### Python Projects
+
+#### 1. Attendance Tracker
+A python program that takes students details, subjects, working days, and present days as input, calculates attendance status of each student.
+- Multiple student and subject data handling
+- Attendance percentage calculation
+- Search student by registration number
+- Menu-based options
+- Lists, loops, conditional statements, and user input
+
 ## Technologies
 -Java
+-Python
 -VS Code
--GitHub
+-Git & GitHub
 
 ## Goal
-This Repository documents is my progress in Java, from basic programming concepts toward  DSA and larger  Projects.
+This Repository documents is my progress from basic programming concepts toward  DSA and larger  Projects.
+- Improve programming and problem-solving skills
+- Build practical and meaningful projects 
+- Strengthen my understanding of programming concepts and DSA
+- Learn and apply Git and GitHub
+- Explore and learn new Technologies
+- Continuously improve my projects as I learn new concepts
